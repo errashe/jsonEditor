@@ -1,0 +1,29 @@
+{
+  "code":200,
+  "err":"",
+  "timestamp":1459855918,
+  "data":{
+    "city":[
+      {
+        "cityid":3877,
+        "cityname":"q",
+        "districts":[
+          {"id":1245,"name":"q1","sort":0},
+          {"id":1257,"name":"q2","sort":0},
+          {"id":1461,"name":"q3","sort":0},
+          {"id":1338,"name":"q4","sort":0}
+        ]
+      },
+      {
+        "cityid":2263,
+        "cityname":"w",
+        "districts":[
+          {"id":1223,"name":"w1","sort":0},
+          {"id":1203,"name":"w2","sort":8},
+          {"id":1048,"name":"w3","sort":8},
+          {"id":1205,"name":"w4","sort":999}
+        ]
+      }
+    ]  
+  }
+}
